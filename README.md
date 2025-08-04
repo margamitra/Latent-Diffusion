@@ -48,6 +48,8 @@ The Latent Diffusion Model workflow operates through several key stages to conve
 ![image](https://github.com/user-attachments/assets/744f08d2-2767-4c47-a800-65159e6abff0)
 ### Prompt: 
 "An otter wearing sunglasses relaxing on a floating tube in a swimming pool, on a sunny day."
+<img width="866" height="83" alt="image" src="https://github.com/user-attachments/assets/df73af9d-ee32-49ca-98e5-de03a951effb" />
+
 ![image](https://github.com/user-attachments/assets/45879d63-914e-4152-932a-69909362efa8)
 ### Prompt: 
 "A cute blue-green space rover like wall-E with cute eyes, lost on a strange planet,cool earth tones"
